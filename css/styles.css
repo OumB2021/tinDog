@@ -102,6 +102,7 @@ p{
   text-align: center;
   background-color: #EF8172;
   color: #fff;
+  position: relative;
 }
 
 .testimonial-image{
@@ -146,4 +147,29 @@ p{
     position: static;
     transform: rotate(0);
   }
+}
+
+/* CTA section */
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 5% 10%;
+}
+
+.cta-text{
+  color: #fff;
+  width: 40%;
+  margin: auto;
+}
+
+/* footer */
+
+#footer{
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.footer-btn{
+  padding: 2% 1%;
 }
